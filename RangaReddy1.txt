@@ -15,3 +15,7 @@ Adding Banana
 Apple 
 Pune
 
+Monday,
+Tuesday,
+Wednesday
+
