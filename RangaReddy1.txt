@@ -18,4 +18,5 @@ Pune
 Monday,
 Tuesday,
 Wednesday
+Thursday
 
